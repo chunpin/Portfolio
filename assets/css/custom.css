@@ -1,0 +1,17 @@
+
+.author{
+	color:#009688;
+
+}
+
+.skill-set, .languages, .online-education-list, .education-list{
+	list-style-type:none;
+	padding-left:0px;
+}
+
+
+.telephone_number{
+	text-decoration: none;
+}
+
+
